@@ -10,9 +10,13 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jimbowler82/), [T
 
 Feel free to get in touch!
 
-- 🔭 I’m currently working on - [The Todo Project](https://github.com/JimBowler82/theTodoProject-Client)
+- 🔭 I’m currently working on - [The Todo Project](https://github.com/JimBowler82/theTodoProject-Client) - A MERN stack project _(Mongo, Express, React, Node)_
 - 🌱 I’m currently learning - _**Docker & AWS**_
 - 💬 Ask me about - **Any questions you might have (_School of Code, Open Univeristy, projects, JavaScript ..._)**
 - 📫 How to reach me: - **See links above!**
 
-<img src="./soc.png" width="80px" alt="School of Code logo">
+[![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimBowler82&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JimBowler82&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="./images/soc.png" width="80px" alt="School of Code logo">
