@@ -1,4 +1,4 @@
-## Hi there, I'm James 👋
+## Hi there, I'm James 👋 <img src="https://www.codewars.com/users/JimBowler82/badges/small">
 
 I am a full-stack developer from Worcestershire (UK), recent graduate of the [School of Code](https://www.schoolofcode.co.uk/) 16 week bootcamp, and student with the [Open University](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) studying the final year of a Computing & IT degree 🎓.
 
@@ -14,6 +14,8 @@ Feel free to get in touch!
 - 🌱 I’m currently learning - _**Docker & AWS**_
 - 💬 Ask me about - **Any questions you might have (_School of Code, Open Univeristy, projects, JavaScript ..._)**
 - 📫 How to reach me: - **See links above!**
+
+<img src="https://www.codewars.com/users/JimBowler82/badges/small">
 
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimBowler82&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
