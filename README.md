@@ -15,7 +15,7 @@ Feel free to get in touch!
 - 💬 Ask me about - **Any questions you might have (_School of Code, Open Univeristy, projects, JavaScript ..._)**
 - 📫 How to reach me: - **See links above!**
 
-<img src="https://www.codewars.com/users/JimBowler82/badges/small">
+<img src="https://www.codewars.com/users/JimBowler82/badges/micro">
 
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=JimBowler82&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
