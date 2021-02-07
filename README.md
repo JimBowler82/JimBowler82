@@ -1,4 +1,4 @@
-## Hi there, I'm James 👋 <img src="https://www.codewars.com/users/JimBowler82/badges/small">
+## Hi there, I'm James 👋
 
 I am a full-stack developer from Worcestershire (UK), recent graduate of the [School of Code](https://www.schoolofcode.co.uk/) 16 week bootcamp, and student with the [Open University](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) studying the final year of a Computing & IT degree 🎓.
 
