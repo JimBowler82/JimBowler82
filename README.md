@@ -1,6 +1,6 @@
 ## Hi there, I'm James 👋
 
-I am a junior software developer from Worcestershire (UK) currently working with the [The Big Phone Store](https://github.com/JimBowler82/JimBowler82.git) delivering solutions with PHP, MySQL & Laravel, also a recent graduate of the [School of Code](https://www.schoolofcode.co.uk/) 16 week bootcamp, and student with the [Open University](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) studying the final year of a Computing & IT degree 🎓.
+I am a full stack developer from Worcestershire (UK) currently working with [Image Plus](https://www.image-plus.co.uk/) delivering solutions with PHP, Laravel, MySQL, and JavaScript (Vue JS). I am also a graduate of the [School of Code](https://www.schoolofcode.co.uk/) 16 week bootcamp cohort 4, and student of the [Open University](http://www.open.ac.uk/courses/computing-it/degrees/bsc-computing-it-software-q62-soft) studying software engineering 🎓.
 
 My GitHub features projects I have created through my own learning as well as projects created while working in an agile team with the School of Code. I generally always have a project a on the go!
 
@@ -8,7 +8,7 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jimbowler82/), [T
 
 Feel free to get in touch!
 
-- 🔭 I’m currently working on - A full-stack ecommerce application using PHP, Laravel, MySql.
+- 🔭 I’m currently working on - A full-stack laravel ecommerce applications.
 - 🌱 I’m currently learning - _**Laravel & Vue JS**_
 - 💬 Ask me about - **Any questions you might have (_School of Code, Open Univeristy, projects, JavaScript ..._)**
 - 📫 How to reach me: - **See links above!**
