@@ -2,16 +2,11 @@
 
 I am a software engineer from Worcestershire (UK) currently working with Vigo Software working on industry leading SASS logistics products using NextJS, TypeScript, C# & asp.net.  I am also a graduate of the [School of Code](https://www.schoolofcode.co.uk/) 16 week bootcamp cohort 4, and student of Bath University studying an MSc in computer science 🎓.
 
-My GitHub features projects I have created through my own learning as well as projects created while working in an agile team with the School of Code. I generally always have a project a on the go!
+
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jimbowler82/), [Twitter](https://twitter.com/JimBowler82), and my personal [website](https://www.jamesbowler.co.uk).
 
 Feel free to get in touch!
-
-- 🔭 I’m currently working on - Full-stack laravel ecommerce applications.
-- 🌱 I’m currently learning - _**C# .Net*_
-- 💬 Ask me about - **Any questions you might have (_School of Code, Open Univeristy, projects, JavaScript ..._)**
-- 📫 How to reach me: - **See links above!**
 
 <img src="https://www.codewars.com/users/JimBowler82/badges/micro">
 
